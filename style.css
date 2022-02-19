@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    
+}
+.doh{
+    width: 178px;
+    margin-bottom:50px;
+    border-radius: 50%;
+}
+#kol{
+    position: absolute;
+    color: #FFFFFF; 
+    bottom: 0; 
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%); display: table; width: 100%; height: 100%; z-index: 9;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+.off{
+    text-align: center;
+        position:relative;
+    display:table-cell;
+    vertical-align: middle;
+}
+#hexaor{
+    padding: 50px;
+    text-align: center;
+    
+}
+p { max-width: 450px; margin: 25px auto; font-size: 17px; line-height: 1.3; }
+.munum{
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background: white;
+    width: 100%
+    margin-top:0px;
+}
+.my_house{
+    color: crimson;
+    font-size:20px;
+    font-family:monospace;
+    padding-left: 33px;
+    padding-right: 25px;
+    display:inline
+}
+.my_house:hover{
+    background-color: darkblue;
+    text-decoration: underline;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.ical:hover{
+    
+    color: cornflowerblue;
+}
+#contict{
+    background: blue;
+}
+#contict iframe{
+    width:100%;
+}
+.fone a{
+    text-shadow: none;
+    color:firebrick;
+}
